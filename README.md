@@ -16,4 +16,6 @@ To exit the game, enter any non-integer input\
 \
 To play, download the folder, compile connect4.c with main.c and run the application.\
 \
+Edit initial_board.txt to play on a board of any size, and even with starting pieces!\
+\
 I have included an analysis report of my code.
