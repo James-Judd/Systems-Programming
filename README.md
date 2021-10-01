@@ -6,6 +6,7 @@ A game of Connect 4 on a cylindrical board where, after a piece is placed, you c
 Remember the board wraps around on each side, and rotated pieces will drop down if their new spot has space below it!\
 \
 Instructions:\
+\
 To rotate a row, input the number of the row you wish to rotate: positive rotates to the right, negative rotates to the left.\
 E.g.\
 4 will rotate row 4, one space to the right\
@@ -18,4 +19,4 @@ To play, download the folder, compile connect4.c with main.c and run the applica
 \
 Edit initial_board.txt to play on a board of any size, and even with starting pieces!\
 \
-I have included an analysis report of my code.
+I have included an analytical report of my code.
