@@ -14,4 +14,6 @@ E.g.\
 \
 To exit the game, enter any non-integer input\
 \
-To play, download the folder, compile connect4.c with main.c and run the application.
+To play, download the folder, compile connect4.c with main.c and run the application.\
+\
+I have included an analysis report of my code.
