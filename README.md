@@ -10,7 +10,7 @@ Instructions:\
 To rotate a row, input the number of the row you wish to rotate: positive rotates to the right, negative rotates to the left.\
 E.g.
 4 will rotate row 4, one space to the right\
-     -3 will rotate row 3, one space to the left\
+-3 will rotate row 3, one space to the left\
 0 will end your turn without rotating any rows\
 \
 To exit the game, enter any non-integer input\
