@@ -11,6 +11,7 @@ E.g.\
 4 will rotate row 4, one space to the right\
 -3 will rotate row 3, one space to the left\
 0 will end your turn without rotating any rows\
+\
 To exit the game, enter any non-integer input\
 \
 To play, download the folder, compile connect4.c with main.c and run the application.
