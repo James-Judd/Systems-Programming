@@ -19,4 +19,4 @@ To play, download the folder, compile connect4.c with main.c and run the applica
 \
 Edit initial_board.txt to play on a board of any size, and even with starting pieces!\
 \
-I have included an analytical report of my code.
+I have also included an analytical report of my code.
