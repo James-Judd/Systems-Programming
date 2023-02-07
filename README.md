@@ -1,6 +1,3 @@
-Repository of my Systems Programming coursework, for full details read the specification.\
-\
-KEY PROJECT:\
 Connect 4 Twist and Turn\
 A game of Connect 4 on a cylindrical board where, after a piece is placed, you can choose to rotate a row either left or right.\
 Remember the board wraps around on each side, and rotated pieces will drop down if their new spot has space below it!\
